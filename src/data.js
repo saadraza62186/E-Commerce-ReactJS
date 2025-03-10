@@ -52,7 +52,7 @@ export const popularProduct = [
     },
     {
         id : 4,
-        img : "/product4.avif"
+        img : "/product3.avif"
     },
     {
         id : 5,
