@@ -7,6 +7,11 @@ const Container = styled.div`
     display: flex;
     padding: 20px;
     justify-content: space-between;
+    
+    @media (max-width: 768px) {
+        flex-direction: column;
+        padding: 10px;
+    }
 `
 
 const Categories = () => {
